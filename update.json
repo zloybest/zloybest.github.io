@@ -2,8 +2,8 @@
   "files": {
     "launcher": {
       "type": "launcher",
-      "url": "https://srv-file2.gofile.io/download/409oAo/launcher.zip",
-      "hash": "23345",
+      "url": "http://localhost:5000/launcher.zip",
+      "hash": "1",
       "critical": true
     },
     "updater": {
