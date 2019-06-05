@@ -1,0 +1,16 @@
+{
+  "files": {
+    "launcher": {
+      "type": "launcher",
+      "url": "https://srv-file2.gofile.io/download/409oAo/launcher.zip",
+      "hash": "13123",
+      "critical": true
+    },
+    "updater": {
+      "type": "updater",
+      "url": "http://localhost:5000/updater.zip",
+      "hash": "updater131",
+      "critical": true
+    }
+  }
+}
