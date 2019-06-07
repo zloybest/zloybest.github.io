@@ -1,14 +1,8 @@
 {
   "files": {
-    "launcher": {
-      "type": "launcher",
-      "url": "http://localhost:5000/launcher.zip",
-      "hash": "1",
-      "critical": true
-    },
     "updater": {
       "type": "updater",
-      "url": "http://localhost:5000/updater.zip",
+      "url": "https://testbg.beeline.ru/app/updater.zip",
       "hash": "updater131",
       "critical": true
     }
